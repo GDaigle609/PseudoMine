@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../Workspaces/Dropbox/ACL4 Daigle Griffin/.idea/ACL4 Daigle Griffin.iml" filepath="$PROJECT_DIR$/../../../../Workspaces/Dropbox/ACL4 Daigle Griffin/.idea/ACL4 Daigle Griffin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PseudoMine.iml" filepath="$PROJECT_DIR$/.idea/PseudoMine.iml" />
     </modules>
   </component>

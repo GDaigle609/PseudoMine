@@ -9,7 +9,30 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="jruby-9.3.6.0-p0" jdkType="JRUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="array_include_methods (v1.4.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="awesome_print (v1.9.2, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.10, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="facets (v3.1.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="glimmer (v2.7.3, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="glimmer-dsl-swt (v4.24.1.3, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jruby-win32ole (v0.8.5, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v1.0.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nested_inherited_jruby_include_package (v0.3.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="os (v1.1.4, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pastel (v0.8.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="puts_debuggerer (v0.13.5, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake-tui (v0.2.3, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rouge (v3.30.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="super_module (v1.4.1, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="text-table (v1.2.4, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-color (v0.6.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-cursor (v0.7.1, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-prompt (v0.23.1, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-reader (v0.9.0, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tty-screen (v0.8.1, jruby-9.3.6.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="wisper (v2.0.1, jruby-9.3.6.0-p0) [gem]" level="application" />
   </component>
 </module>
